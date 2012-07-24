@@ -1,0 +1,1 @@
+<?php include("admin/entidades/localhost.php"); ?><?php include("admin/entidades/inc_functions.php"); ?>
